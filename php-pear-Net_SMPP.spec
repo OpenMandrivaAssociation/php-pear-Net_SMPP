@@ -6,7 +6,7 @@
 Summary:	SMPP v3.4 protocol implementation
 Name:		php-pear-%{_pearname}
 Version:	0.4.4
-Release:	%mkrel 3
+Release:	%mkrel 4
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
