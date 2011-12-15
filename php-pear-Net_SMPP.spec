@@ -3,8 +3,8 @@
 %define		upstream_name	%{_class}_%{_subclass}
 
 Name:		php-pear-%{upstream_name}
-Version:	0.4.4
-Release:	%mkrel 7
+Version:	0.4.5
+Release:	%mkrel 1
 Summary:	SMPP v3.4 protocol implementation
 License:	PHP License
 Group:		Development/PHP
