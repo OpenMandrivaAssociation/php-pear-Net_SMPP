@@ -64,3 +64,47 @@ fi
 %doc %{upstream_name}-%{version}/docs/*
 %{_datadir}/pear/%{_class}
 %{_datadir}/pear/packages/%{upstream_name}.xml
+
+
+%changelog
+* Fri Dec 16 2011 Oden Eriksson <oeriksson@mandriva.com> 0.4.5-2mdv2012.0
++ Revision: 741797
+- fix major breakage by careless packager
+
+* Thu Dec 15 2011 Oden Eriksson <oeriksson@mandriva.com> 0.4.5-1
++ Revision: 741529
+- 0.4.5
+
+* Fri May 27 2011 Oden Eriksson <oeriksson@mandriva.com> 0.4.4-7
++ Revision: 679493
+- mass rebuild
+
+* Tue Dec 07 2010 Oden Eriksson <oeriksson@mandriva.com> 0.4.4-6mdv2011.0
++ Revision: 613736
+- the mass rebuild of 2010.1 packages
+
+* Sun Nov 22 2009 Guillaume Rousse <guillomovitch@mandriva.org> 0.4.4-5mdv2010.1
++ Revision: 468718
+- spec cleanup
+- use pear installer
+- don't ship tests, even in documentation
+- own all directories
+- use rpm filetriggers starting from mandriva 2010.1
+
+* Tue Sep 15 2009 Thierry Vignaud <tv@mandriva.org> 0.4.4-4mdv2010.0
++ Revision: 441492
+- rebuild
+
+* Thu Jan 01 2009 Oden Eriksson <oeriksson@mandriva.com> 0.4.4-3mdv2009.1
++ Revision: 322497
+- rebuild
+
+* Fri Aug 08 2008 Thierry Vignaud <tv@mandriva.org> 0.4.4-2mdv2009.0
++ Revision: 268960
+- rebuild early 2009.0 package (before pixel changes)
+
+* Sun Jun 08 2008 Funda Wang <fwang@mandriva.org> 0.4.4-1mdv2009.0
++ Revision: 216774
+- import php-pear-Net_SMPP
+
+
