@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.4.5
-Release:	3
+Release:	4
 Summary:	SMPP v3.4 protocol implementation
 License:	PHP License
 Group:		Development/PHP
