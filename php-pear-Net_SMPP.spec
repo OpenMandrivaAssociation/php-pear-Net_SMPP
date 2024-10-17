@@ -8,7 +8,7 @@ Release:	4
 Summary:	SMPP v3.4 protocol implementation
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/%{upstream_name}/
+URL:		https://pear.php.net/package/%{upstream_name}/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
